@@ -25,7 +25,12 @@
     border-right: 4px solid #b5e9f0;
     border-bottom: 4px solid #b5e9f0;
     background-color: #fff;
-  }
+}
+
+.firebase {
+    list-style: none;
+    margin-left: 2.5%;
+}
 
 @media screen and (max-width: 736px) {
     .box {
